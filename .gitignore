@@ -1,9 +1,10 @@
 node_modules
-
+theory.txt
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+
 
 # testing
 /coverage
