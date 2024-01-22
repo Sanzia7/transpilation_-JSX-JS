@@ -20,8 +20,8 @@ export const App = () => {
 
 			createElement('p', null,
 				' Edit  ',
-				createElement('code', null, 'src/App.js'),
-			'  and save to reload.', ),
+				createElement('code', null, 'src/App.js  '),
+			'  and save to reload. ' ),
 
 			createElement(
 				'a',
